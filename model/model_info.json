@@ -1,0 +1,23 @@
+{
+  "architecture": "CNNClassifier",
+  "num_classes": 10,
+  "input_shape": [
+    1,
+    28,
+    28
+  ],
+  "parameters": 421642,
+  "final_test_accuracy": 92.2,
+  "class_names": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ]
+}
